@@ -21,3 +21,10 @@ Creamos otra tag con nuestro nombre de usuaro de docker hub y lo pusheamos y ya 
 ![Captura desde 2022-06-07 20-06-30](https://user-images.githubusercontent.com/91556389/172452347-e570f30f-8f01-47a8-bc08-6da17d6a2384.png)
 
 ![Captura desde 2022-06-07 20-07-35](https://user-images.githubusercontent.com/91556389/172452449-e9209d56-1e4c-4eaf-a976-1f786f1003b9.png)
+
+
+Como vemos se ha iniciado tomcat pero no ha iniciado bien el proyecto.
+
+![Captura desde 2022-06-07 19-53-25](https://user-images.githubusercontent.com/91556389/172456805-6dfd9e51-6009-4f00-90c9-342f58db2e45.png)
+
+![Captura desde 2022-06-07 20-31-59](https://user-images.githubusercontent.com/91556389/172456672-2964eb72-b7b1-4af1-8b01-3eb1a6e972f5.png)
