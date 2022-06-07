@@ -1,10 +1,10 @@
 # PracticaExamenMaximo
 
-Lo primero de todo es tener el el dockerfile y el docker-compose.yml y entonces ejecutamos docker compose up -d.
+Lo primero de todo es tener el el dockerfile y el docker-compose.yml los cuales son unicos para cada proyecto. Despues de esto tenemos que hacer un docker-compose up -d.
 
 ![Captura desde 2022-06-07 19-52-15](https://user-images.githubusercontent.com/91556389/172449785-e84f0804-52ed-43a2-a492-3456683e1ea7.png)
 
-Podemos ver que se han iniciado las imagenes
+Podemos ver que se han iniciado las imagenes con el comando docker ps.
 
 ![Captura desde 2022-06-07 19-53-25](https://user-images.githubusercontent.com/91556389/172450101-fc558dab-e5d9-42e9-85aa-69555a7c9d71.png)
 
